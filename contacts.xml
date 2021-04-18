@@ -7,21 +7,27 @@
 	<notes>This is my number</notes>
 </contact>
 <contact>
-	<first_name>Aditya</first_name>
-	<last_name>Verma</last_name>
-	<phone_number>127666</phone_number>
-	<notes>Young Brothers number</notes>
-</contact>
-<contact>
-	<first_name>Jenner</first_name>
-	<last_name>Walt</last_name>
-	<phone_number>55445383</phone_number>
-	<notes>Girlfriend's  Number</notes>
+	<first_name>Neha</first_name>
+	<last_name>Sharma</last_name>
+	<phone_number>2345432</phone_number>
+	<notes>Family Friend</notes>
 </contact>
 <contact>
 	<first_name>Mechan</first_name>
 	<last_name>Madona</last_name>
 	<phone_number>1234567</phone_number>
 	<notes>Friends Hotspot</notes>
+</contact>
+<contact>
+	<first_name>Aditya</first_name>
+	<last_name>Sharma</last_name>
+	<phone_number>127666</phone_number>
+	<notes>Young Brothers number</notes>
+</contact>
+<contact>
+	<first_name>Yamani</first_name>
+	<last_name>Dixit</last_name>
+	<phone_number>2323232323</phone_number>
+	<notes>Elder Sister</notes>
 </contact>
 </contacts>
